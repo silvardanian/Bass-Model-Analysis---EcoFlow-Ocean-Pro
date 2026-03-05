@@ -32,10 +32,10 @@ Both products target homeowners, integrate with solar PV systems, and compete in
 
 | Parameter | Value |
 |---|---|
-| p — coefficient of innovation | 0.00093 |
-| q — coefficient of imitation | 0.5929 |
-| M — market potential (Powerwall, NLS) | 1,724,786 |
-| M — market potential (EcoFlow, Fermi) | 2,200,000 |
+| p - coefficient of innovation | 0.00093 |
+| q - coefficient of imitation | 0.5929 |
+| M - market potential (Powerwall, NLS) | 1,724,786 |
+| M - market potential (EcoFlow, Fermi) | 2,200,000 |
 | Predicted peak adoption year (EcoFlow) | ~2035.9 |
 | Cumulative adopters by 2039 | 2,024,408 (~92% of M) |
 
