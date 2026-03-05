@@ -52,7 +52,7 @@ Both products target homeowners, integrate with solar PV systems, and compete in
 │   └── Tesla Powerwall.csv       # Historical Tesla Powerwall installation data (2015–2025)
 │
 └── report/
-    └── bass_model_ecoflow.pdf    # Final compiled PDF report
+    └── Bass Model Analysis - EcoFlow.pdf    # Final compiled PDF report
 ```
 
 ---
